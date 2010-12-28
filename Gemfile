@@ -21,4 +21,5 @@ group :development, :test do
    gem 'selenium-client'
    gem 'thin'
    gem 'webrat'
+   gem 'win32console'
 end
